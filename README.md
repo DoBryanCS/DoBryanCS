@@ -1,4 +1,4 @@
-<h1 align="left"> Salut, c'est Bryan (Khoa) 👋 </h1>
+<h1 align="left"> Bryan (Khoa) 👋 </h1>
 
 <p align="left">
    
