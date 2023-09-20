@@ -6,8 +6,8 @@
    <a href="mailto:do.bryan.cs@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<h4 align="left"> Je suis un développeur passionné et polyvalent qui étudie présentement à l'École de technologie supérieure (ÉTS). Je suis toujours enthousiaste à l'idée de contribuer à des projets de développement innovants qui font appel à ma passion pour la technologie et ma capacité à résoudre des problèmes complexes. 
-
+<h4 align="left"> Étudiant à l'École de technologie supérieure (ÉTS), passionné, polyvalent et toujours enthousiaste à l'idée de contribuer à des projets de développement innovants.
+   
 <br /> 
 <br /> 
 
