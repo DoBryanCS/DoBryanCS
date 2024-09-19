@@ -11,7 +11,7 @@
 <br /> 
 <br /> 
 
-Pour en savoir plus sur moi, voici mon CV: [DoBryan_CV.pdf](https://github.com/DoBryanCS/DoBryanCS/files/12664654/DoBryan_CV.pdf)
+Pour en savoir plus sur moi, voici mon CV: [DoBryan_CV.pdf](DoBryan_CV.pdf)
 </p>
 
 ---
