@@ -6,12 +6,9 @@
    <a href="mailto:do.bryan.cs@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="left"> Étudiant à l'École de technologie supérieure (ÉTS), passionné, polyvalent et toujours enthousiaste à l'idée de contribuer à des projets de développement innovants.
-   
-<br /> 
-<br /> 
+<p align="left">
 
-Pour en savoir plus sur moi, voici mon CV: [DoBryan_CV.pdf](https://github.com/DoBryanCS/DoBryanCS/raw/9db7cab4dd5472b4224d10c1fdf8da091f088aa4/DoBryan_CV.pdf)
+[DoBryan_CV.pdf](https://github.com/DoBryanCS/DoBryanCS/raw/9db7cab4dd5472b4224d10c1fdf8da091f088aa4/DoBryan_CV.pdf)
 </p>
 
 ---
